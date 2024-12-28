@@ -1,0 +1,26 @@
+html>
+<head>
+<title>HTML FORM
+</title>
+</head>
+<body>
+Name:
+<input type="text" name="name" size="15" maxlength="30" placeholder="name"><br><br>
+Father Name:
+<input type="text" name="father name" size="15" maxlength="30" placeholder="father name"><br><br>
+Mother name:
+<input type="text" name="mother name" size="15" maxlength="30" placeholder="mother name"><br><br>
+Email:
+<input type="Email" name="Email" size="15" maxlength="30" placeholder="Email"><br><br>
+Gender:
+<input type="radio" name="gender" size="15" maxlength="30" value="male">male
+<input type="radio" name="gender" size="15" maxlength="30" value="female">female<br><br>
+Name of school:
+<input type="name of school" name="school name" size="15" maxlength="30" place holder="name of school"><br><br>
+Phone number:
+<input type="text" name="text" size="15" maxlength="30" placeholder="phone number"><br><br>
+Date of birth:
+<input type="date" name="date of birth" size="15" maxlength="30"><br><br>
+<input type="submit" value="submit">
+</body>
+</html>
